@@ -1,4 +1,9 @@
-### Hi there 👋
+### Well hello there!&nbsp; 👋
+You can call me **Min**
+ - Computer Science PhD candidate @ UC Irvine
+ - LLVM developer for 5+ years \&\& the code owner of M68k LLVM backend
+ - Feel free to swing by my personal website https://myhsu.xyz
+ - ...And my [LinkedIn profile](https://www.linkedin.com/in/bekketmcclane/)
 
 <!--
 **mshockwave/mshockwave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

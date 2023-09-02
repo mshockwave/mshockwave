@@ -1,6 +1,7 @@
 ### Hello there!&nbsp; 👋
 You can call me **Min**
- - Computer Science PhD candidate @ UC Irvine
+ - Compiler Engineer @ SiFive
+ - PhD degree in Computer Science from University of California, Irvine
  - LLVM developer for 5+ years \&\& code owner of M68k LLVM backend
  - Check out my book: [LLVM Techniques, Tips, and Best Practices](https://www.amazon.com/Techniques-Practices-Clang-Middle-End-Libraries/dp/1838824952)
  - Feel free to swing by my personal website https://myhsu.xyz
